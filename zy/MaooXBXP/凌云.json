@@ -1,0 +1,97 @@
+{
+  "author": "chabaolong",
+  "name": "凌云影视(XP)",
+  "ua": "",
+  "homeUrl": "https://www.lingyun.in",
+  "cateManual": {
+    "电影": "movie",
+    "剧集": "tv",
+    "综艺": "variety",
+    "动漫": "cartoon"	
+  },
+  
+
+  "homeVodNode": "//ul[contains(@id,'change-ul')]/li/div/a",
+  
+  "homeVodName": "/@title",
+
+  "homeVodNameR": "",
+
+  "homeVodId": "/@href",
+
+  "homeVodIdR": "(\\S+).html",
+
+  "homeVodImg": "/img/@data-src",
+
+  "homeVodImgR": "",
+  
+  "homeVodMark": "/span/span[2]/text()",
+
+  "homeVodMarkR": "",
+  
+  "cateUrl": "https://www.lingyun.in/channel/{cateId}-{catePg}.html",
+  "cateVodNode": "//ul[@class='content-list']/li/div/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "(\\S+).html",
+  "cateVodImg": "/img/@data-src",
+  "cateVodMark": "/span/span/text()",
+  
+  "dtUrl": "https://www.lingyun.in/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[@class='main-left-1']/div[1]/div[@class='main-ui-meta']/h1/text()",
+  "dtNameR": "",
+  
+  "dtImg": "//div[@class='main-left-1']/div[1]/div/img/@data-src",
+  "dtImgR": "",
+  
+  "dtCate": "//div[@class='main-ui-meta']/div[5]/a/text()",
+  "dtCateR": "",
+
+  "dtYear": "//div[@class='main-ui-meta']/h1/span[@class='year']/text()",
+  "dtYearR": "(\\w+)",
+  
+  "dtArea": "//div[@class='main-ui-meta']/div[6]/a/text()",
+  "dtAreaR": "",
+
+  "dtMark": "//div[@class='otherbox']/text()",
+  "dtMarkR": "",
+
+  "dtActor": "//div[@class='attrs']",
+  "dtActorR": "",
+
+  "dtDirector": "//div[@class='main-ui-meta']/div[2]/a",
+  "dtDirectorR": "",
+
+  "dtDesc": "//p[@class='sqjj_a']/text()",
+  "dtDescR": "(\\S+)",
+  "dtFromNode": "//ul[@class='py-tabs']/li",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+   "dtUrlNode": "//ul[@class='player ckp']",
+
+  "dtUrlSubNode": "/li/a",
+  
+
+  "dtUrlId": "/@href",
+
+  "dtUrlIdR": "/play/(\\S+).html",
+
+  "dtUrlName": "/text()",
+
+  "dtUrlNameR": "",
+  
+  "playUrl": "https://www.lingyun.in/play/{playUrl}.html",
+
+  "playUa": "",
+  
+  "searchUrl": "https://www.lingyun.in/search.html?wd={wd}",
+
+  "scVodNode": "//div[@class='main']/div[@class='sr_lists']/dl/dt/a",
+  "scVodName": "/img/@alt",
+  "scVodId": "/@href",
+  "scVodIdR": "(\\S+).html",
+  "scVodImg": "/img/@data-src",
+  "scVodMark": ""
+  
+}

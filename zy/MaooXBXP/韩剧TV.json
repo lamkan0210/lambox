@@ -1,0 +1,59 @@
+﻿{
+  "author": "chabaolong",
+  "name": "韩剧TV",
+  "ua": "",
+  "homeUrl": "https://www.hanjutv9.com",
+  "cateManual": {
+    "最新韩剧": "hanju",
+    "韩国电影": "dianying",
+    "韩国综艺": "zongyi",
+    "泰剧": "taiju",
+    "日剧": "rijutv"  },
+  
+  "homeVodNode": "//ul[@class='img-list clearfix']/li/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "",
+  "homeVodImg": "/img/@data-original",
+  "homeVodMark": "/span[4]/text()",
+  
+  "cateUrl": "https://www.hanjutv9.com/{cateId}/index______{catePg}.html",
+  "cateVodNode": "//ul[@id='content']/li/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "",
+  "cateVodImg": "/img/@data-original",
+  "cateVodMark": "/span[3]/text()",
+  
+  "dtUrl": "{vid}",
+  "dtNode": "//body",
+  "dtName": "//ul[@class='img-list clearfix']/li/h1/text()",
+  "dtImg": "//a[@class='vod-detail-thumb']/img/@src",
+  "dtCate": "//span[@class='text-ccc' and contains(text(), '类型：')]/following-sibling::*/text()",
+  "dtYear": "",
+  "dtArea": "//ul[@class='img-list clearfix']/li[@class='col-md-2 col-sm-2 col-xs-2 text-overflow hidden-xs']/text()",
+  "dtMark": "//ul[@class='img-list clearfix']/li[@class='col-sm-2 col-xs-1 text-overflow hidden-xs'][2]/text()",
+  "dtActor": "//span[@class='text-ccc' and contains(text(), '主演：')]/following-sibling::*/text()",
+  "dtDirector": "//ul[@class='img-list clearfix']/li[@class='col-sm-2 col-xs-1'][2]/text()",
+  "dtDesc": "//li[@class='col-md-1 col-sm-1 col-xs-1 detail-info']/p",
+  "dtDescR": "简介：(\\S+)",
+  
+  "dtFromNode": "//a[contains(@id,'#con_playlist')]",
+  "dtFromName": "/text()",
+  "dtUrlNode": "//ul[contains(@id,'con_playlist')]",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "",
+  "dtUrlName": "/text()",
+  "playUrl": "{playUrl}",
+  "playUa": "",
+  
+  "searchUrl": "https://www.hanjutv9.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
+  
+}
