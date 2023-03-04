@@ -15,6 +15,7 @@
 "sites":[
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0 ,"jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/qj1119.txt"},
+{"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"jar": "https://raw.kgithub.com/lamkan0210/lambox/main/box/jar/xo.txt"},
 {"key":"csp_Kunyu77","name":"👒七七","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/lamkan0210/lambox/main/zy/MaooXBXP/农民影视.json"},
 {"key" : "drpy_js_酷客影院","name" : "酷客影院","type" : 3,"api" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/libs/drpy.min.js","ext" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/js/%E9%85%B7%E5%AE%A2%E5%BD%B1%E9%99%A2.js","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/js.txt"},
@@ -80,7 +81,6 @@
 {"key":"csp_XYQBiu_凌云影视","name":"🍭凌云视频(韩国)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/MaooXP/凌云视频韩国.json"},
 {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/qj1119.txt"},
 {"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/qj1119.txt"},
-{"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"jar": "https://raw.kgithub.com/lamkan0210/lambox/main/box/jar/xo.txt"},
 {"key":"csp_Ysj","name":"👾异界(SP)","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.kgithub.com/lamkan0210/lambox/main/box/jar/0204.txt"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0af16554fa864b988732348cdf13568a","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AList","name":"🅿️AList(SP)","type":3,"api":"csp_AList","searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/Alist1.json","jar": "https://raw.kgithub.com/lamkan0210/lambox/main/box/jar/0204.txt"},
