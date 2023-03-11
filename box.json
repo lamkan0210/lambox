@@ -15,7 +15,7 @@
 "sites":[
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CzSPP","name":"🚬厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0 ,"jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/qj1119.txt"},
-{"key": "csp_DiDuan","name": "⏮低端┃SP","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/xo.txt"},
+{"key": "csp_DiDuan","name": "⏮低端┃SP","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://cdn.jsdelivr.ren/gh/lamkan0210/lambox@main/box/jar/xo.txt"},
 {"key":"csp_Kunyu77","name":"👒七七","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/lamkan0210/lambox/main/zy/MaooXBXP/农民影视.json"},
 {"key" : "drpy_js_酷客影院","name" : "酷客影院","type" : 3,"api" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/libs/drpy.min.js","ext" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/js/%E9%85%B7%E5%AE%A2%E5%BD%B1%E9%99%A2.js","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/js.txt"},
@@ -25,7 +25,8 @@
 {"key" : "drpy_js_嘶哩嘶哩","name" : "嘶哩嘶哩","type" : 3,"api" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/libs/drpy.min.js","ext" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/js/嘶哩嘶哩.js","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/js.txt"},
 {"key":"csp_AppTT","name":"🐰图图影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_Lib","name":"💥Libvio(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"78d057e4d03e47cb62dce13d69b41d6f"},
-{"key": "csp_Hlsp","name": "💣黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.ren/gh/lamkan0210/lambox@main/box/MaooXB/黑料.json","jar":"https://kgithub.com/lamkan0210/lambox/blob/main/box/jar/xo.txt?raw=true"},
+{"key": "csp_Hlsp","name": "💣黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.ren/gh/lamkan0210/lambox@main/box/MaooXB/黑料.json","jar":"https://cdn.jsdelivr.ren/gh/lamkan0210/lambox@main/box/jar/xo.txt"},
+{"key": "csp_AppMr","name": "👻明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://cdn.jsdelivr.ren/gh/lamkan0210/lambox@main/box/jar/xo.txt"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996" ,"jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/qj1119.txt"},
 {"key" : "drpy_js_宅腐影视","name": "宅腐影视","type" : 3,"api" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/libs/drpy.min.js","ext" : "https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/JS2/js/宅腐影视.js","jar":"https://jsd.cdn.zzko.cn/gh/lamkan0210/lambox@main/box/jar/js.txt"},
 {"key":"csp_AppTT","name":"🐰图图影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5"},
