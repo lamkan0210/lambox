@@ -20,7 +20,7 @@
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/nmys.json","jar":"./box/jar/xo.txt"},
 {"key": "csp_xp_qiumi","name": "🏀qz看球","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./box/MaooXB/dj看球.json"},
 {"key": "csp_XPath_企鹅体育","name": "🐧秦看企鹅","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./box/MaooXB/企鹅直播.json"},
-{"key": "88js","name": "⚽臻看球","type": 3,"api": "./js2/libs/drpy.min.js","ext": "./js2/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "88js","name": "⚽臻看球","type": 3,"api": "./JS2/libs/drpy.min.js","ext": "./JS2/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_XYQBiu_310直播","name": "⚽310看球","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./box/MaooXB/310直播.json"},
 {"key" : "drpy_js_酷客影院","name" : "酷客影院","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/%E9%85%B7%E5%AE%A2%E5%BD%B1%E9%99%A2.js","jar":"./box/jar/js.txt"},
 {"key" : "drpy_js_看一看影视","name": "看一看影视","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/kankan.js","jar":"./box/jar/js.txt"},
