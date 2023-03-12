@@ -45,7 +45,6 @@
 {"key":"csp_XBPQ_看B站","name":"🅱看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/看B站.json"},
 {"key":"csp_XBPQ_酷客影视","name":"酷客影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/酷客影视.json"},
 {"key":"csp_XBPQ_速搜影视","name":"速搜影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/速搜影视.json"},
-{"key":"csp_XBPQ_2024xxj","name":"2024xxj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/2024xxj.json"},
 {"key":"niketv_spider","name":"✔︎耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar": "./box/jar/qj1119.txt"},
 {"key":"csp_xBPQ_喵喵","name":"🍭喵喵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/喵喵.json","jar": "./box/jar/csp.txt"},
 {
