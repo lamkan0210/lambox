@@ -38,7 +38,7 @@
 {"key":"csp_fantuan","name":"🍙饭团(SP)","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"./box/jar/xo.txt"},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./box/jar/xo.txt"},
 {"key":"Tian","name":"🗽天天┃SP","type":"3","api":"csp_Dora","playerType":2,"searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar": "./box/jar/xo.txt"},
-{"key":"神马电影","name":"🐎神马电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar": ".box/jar/xo.txt"},
+{"key":"csp_Smdyy","name": "🐴神马","type": 3,"api": "csp_Smdyy","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"百影视频","name":"🍷百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar": "./box/jar/qj1119.txt"},
 {"key":"booys_spider","name":"📙书影影视","api":"csp_BookYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar": "./box/jar/qj1119.txt"},
 {"key":"Lezhu_spider","name":"🐷乐猪TV(sp)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":0,"jar": "./box/jar/xo.txt"},
