@@ -183,8 +183,8 @@
 {"key":"csp_xpath_dm84","name":"🚌动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./box/MaooXP/dm84.json"},
 {"key":"csp_xpath_17skr","name":"🎬 路漫漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/17skr.json"},
 {"key":"csp_xpath_ktkkt","name":"📺kt动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/ktkkt.json"},
-{"key":"Gitcafe","name":"🦊小纸条","type": 3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f363d5239644a41a9c4ac84640a7bc7
-","jar":"./box/jar/ali.txt"},
+{"key":"csp_Paper","name":"🦊小纸条""type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "0786ab65b48b49d7bf9b60ad457e6f29
+","jar":"./box/jar/xo.txt"},
 {"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/蓝光影院.json"},
 {"key":"csp_xpath_dianyingn","name":"🐞电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/dianyingn.json"},
 {"key":"csp_Kuaikan","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
