@@ -73,7 +73,7 @@
     },
 {"key":"csp_xBPQ_imaxw","name":"🃏imaxw","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/imaxw.json","jar": "./box/jar/csp.txt"},
 {"key":"csp_xpath_hanjutv","name":"📂韩剧TV(XP)","type":3,"api":"csp_XPath","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/韩剧TV(XP).json"},
-{"key":"csp_xpath_meiju56","name":"🌎︎美剧网(XPF)","type":3,"api":"csp_XPathFilter","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/meiju562.json"},
+{"key":"csp_xpath_meiju56","name":"🌎︎美剧网(XPF)","type":3,"api":"csp_XPathFilter","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/meiju562.json","jar":"./box/jar/xo.txt"},
 {"key": "Bttoo","name": "🎭Bttoo(SP)","api": "csp_Bttoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "KanSJ_spider","name": "🎬看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
