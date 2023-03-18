@@ -26,7 +26,6 @@
 {"key":"csp_Paper","name":"🦊小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "0786ab65b48b49d7bf9b60ad457e6f29","jar":"./box/jar/xo.txt"},
 {"key" : "drpy_js_酷客影院","name" : "酷客影院","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/%E9%85%B7%E5%AE%A2%E5%BD%B1%E9%99%A2.js","jar":"./box/jar/js.txt"},
 {"key" : "drpy_js_看一看影视","name": "看一看影视","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/kankan.js","jar":"./box/jar/js.txt"},
-{"key" : "drpy_js_孜然影视","name": "孜然影视","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/孜然影视.js","jar":"./box/jar/js.txt"},
 {"key" : "drpy_js_万博剧院","name": "万博剧院","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/万博剧院.js","jar":"./box/jar/js.txt"},
 {"key" : "drpy_js_嘶哩嘶哩","name": "嘶哩嘶哩","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/嘶哩嘶哩.js","jar":"./box/jar/js.txt"},
 {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
