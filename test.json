@@ -3,7 +3,7 @@
 {
 /*-----------------------壁纸切换接口
 ---------------------*/
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 
 /*-----------------------JAR包接口-----------------------*/
