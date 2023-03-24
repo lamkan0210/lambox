@@ -1,6 +1,6 @@
 ﻿🇨🇳  iptv,#genre#
-凤凰中文 ,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://113.64.147.176:808/hls/37/index.m3u8
-凤凰资讯 ,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://113.64.147.176:808/hls/36/index.m3u8
+凤凰中文 ,https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://113.64.147.176:808/hls/37/index.m3u8
+凤凰资讯 ,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://113.64.147.176:808/hls/36/index.m3u8
 凤凰香港,http://120.84.96.28:808/hls/81/index.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3u8#http://r.jdshipin.com/n90gt
 翡翠华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
