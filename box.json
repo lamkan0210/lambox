@@ -30,7 +30,7 @@
 {"key" : "drpy_js_嘶哩嘶哩","name": "嘶哩嘶哩","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/嘶哩嘶哩.js","jar":"./box/jar/js.txt"},
 {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"8K影视","name":"8K影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/8K影视.json","jar":"./box/jar/XBPQ.txt"},
-{"key": "csp_AppMr","name": "👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/jar/xo.txt"},
+{"key": "csp_AppMr","name": "👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./box/jar/xo.txt"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996" ,"jar":"./box/jar/qj1119.txt"},
 {"key" : "drpy_js_宅腐影视","name": "宅腐影视","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/宅腐影视.js","jar":"./box/jar/js.txt"},
