@@ -17,6 +17,7 @@
 {"key":"csp_Czsapp","name":"🚬厂长资源","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 {"key": "csp_DiDuan","name": "⏮低端┃SP","type":3,"api":"csp_Ddrk","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Lib","name":"💥Libvio(SP)","type": 3,"api": "csp_Libvio","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
+{"key":"drpy_js_LIBVIO","name":"💥影视|LIBVIO","type":3,"api":"https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/LIBVIO.js"},
 {"key":"csp_Kunyu77","name":"👒七七","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
 {"key": "csp_xp_qiumi","name": "🏀qz看球","type": 3,"api": "csp_XPath","m3u8ads": "hd.youyhn.com","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./box/MaooXB/dj看球.json"},
