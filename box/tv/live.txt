@@ -5,10 +5,12 @@
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3u8#http://r.jdshipin.com/n90gt
 翡翠华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 明珠台.576,http://120.84.96.28:808/hls/26/index.m3u8
-无线财经体育资讯台,http://120.84.96.28:808/hls/86/index.m3u8
-TVBs,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-VIUTV,http://r.jdshipin.com/vSJvl
-tvbs新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+无线财经体育资讯台,http://120.84.96.87:808/hls/86/index.m3u8
+民视,http://120.84.96.87:808/hls/34/index.m3u8
+私人影院,http://119.125.129.118:9901/tsfile/live/1011_1.m3u8?
+好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
+东森电影高清,http://120.84.96.87:808/hls/32/index.m3u8
+东森洋片高清,http://120.84.96.87:808/hls/33/index.m3u8
 澳门莲花,http://jylt.jdshipin.com:808/hls/24/index.m3u8#http://120.84.96.28:808/hls/24/index.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
