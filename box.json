@@ -35,7 +35,7 @@
 {"key":"csp_XBPQ_大米星球","name":"🍚李江的大米星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/大米星球.json"},
 {"key":"李江的no视频","name":"李江的no视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/NO视频.json","jar":"./box/jar/XBPQ.txt"},
 {"key": "csp_AppMr","name": "👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
-{"key": "csp_biubiu_cupfox","name": "🦊茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
+{"key": "csp_biubiu_cupfox","name": "🦊茶杯狐","type": 3,"api": "csp_XBiubiu","m3u8ads":"hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"./box/jar/xo.txt"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996" ,"jar":"./box/jar/qj1119.txt"},
 {"key" : "drpy_js_宅腐影视","name": "宅腐影视","type" : 3,"api" : "./JS2/libs/drpy.min.js","ext" : "./JS2/js/宅腐影视.js","jar":"./box/jar/js.txt"},
