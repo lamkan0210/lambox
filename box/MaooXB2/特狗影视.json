@@ -1,68 +1,116 @@
+//写法思路来海阔视界，xpath筛选。
+//本文档为完整模板，实际情况可按规则写法删去不需要的。
 {
-  "author":"20220605",
-  "name": "特狗影视",
-  "url": "https://www.tegouys.com", //填网站链接
-  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
-  "shouye": "1",
-
-  "fenlei": "儿童电影$/vodshow/class/儿童/id/1/page/#亲子综艺$/vodshow/class/亲子/id/3/page/#合家欢动漫$/vodshow/class/合家欢/id/4/page/#曲艺综艺$/vodshow/class/曲艺/id/3/page/#电影$/vodshow/id/1/page/#国产剧$/vodshow/area/内地/id/2/page/#香港剧$/vodshow/area/香港/id/2/page/#韩国剧$/vodshow/area/韩国/id/2/page/#美国剧$/vodshow/area/美国/id/2/page/#日本剧$/vodshow/area/日本/id/2/page/#泰国剧$/vodshow/area/泰国/id/2/page/#台湾剧$/vodshow/area/台湾/id/2/page/#英国剧$/vodshow/area/英国/id/2/page/#其它剧$/vodshow/area/其它/id/2/page/#综艺$/vodshow/id/3/page/#国产动漫$/vodshow/area/内地/id/4/page/#日本动漫$/vodshow/area/日本/id/4/page/#欧美动漫$/vodshow/area/欧美/id/4/page/#其它动漫$/vodshow/area/其它/id/4/page/", //网站列表的分类
-  "houzhui": ".html", //网站翻页链接的后缀
-
-  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
-  "jiequqian": "空", //不需要二次截取就填空
-  "jiequhou": "空", //不需要二次截取就填空
-  "jiequshuzuqian": "class=\"myui-vodlist__box\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</span>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
-  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
-  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
-
-  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"playlist", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
-
-  "zhuangtaiqian": "class=\"text-red\">", //状态前关键词
-  "zhuangtaihou": "/", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
-  "daoyanhou": "</p>", //导演态后关键词
-  "zhuyanqian": "主演：</span>", //主演前关键词
-  "zhuyanhou": "</p>", //主演后关键词
-  "juqingqian": "简介：</span>", //剧情前关键词
-  "juqinghou": "<a", //剧情后关键词
-
-  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
-  "bfyjiequqian": "空", //不需要二次截取就填空
-  "bfyjiequhou": "空", //不需要二次截取就填空
-  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
-  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
-  "bfbiaotiqian": ">", //播放剧集标题前关键词
-  "bfbiaotihou": "<", //状播放剧集标题后关键词
-  "bflianjieqian": "href=\"", //播放剧集链接前关键词
-  "bflianjiehou": "\""
-} //播放剧集链接后关键词
+    //规则名
+    "title": "特狗影视",
+    //作者
+    "author": "香雅情",
+    //请求头UA,键名$键值，每一组用#分开，不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
+    //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA
+    "Headers":"MOBILE_UA",
+    //图片需要代理
+    "PicNeedProxy":"0",
+    //是否开启获取首页数据，0关闭，1开启
+    "homeContent":"0",
+    //分类链接起始页码,禁止负数和含小数点。
+    "firstpage": "1",
+    //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
+    "class_url": "https://www.tegouys.com/vodtype/{cateId}-{catePg}.html",
+    //分类名，分类1&分类2&分类3
+    "class_name": "电影&电视剧&综艺&动漫",
+    //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
+    "class_value": "1&2&3&4",
+    //筛选数据，json格式，参考官方仓库的筛选写法
+    "filterdata":{},
+    //分类页面截取数据模式，0为json，1为普通网页。
+    "cat_mode": "1",
+    
+    //分类列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
+    "cat_arr_rule": ".myui-vodlist&&li",
+    //分类片单标题
+    "cat_title": "h4&&a&&Text",
+    //分类片单链接
+    "cat_url": "h4&&a&&href",
+    //分类片单图片
+    "cat_pic": ".lazyload&&data-original",
+    //分类片单副标题
+    "cat_subtitle":".pic-text&&Text",
+    //分类片单链接补前缀  
+    "cat_prefix": "https://www.tegouys.com",
+    //分类片单链接补后缀
+    "cat_suffix": "",
+    
+    //搜索专属请求头UA
+    "SHeaders":"MOBILE_UA",
+    //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
+    //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
+    "search_url": "https://www.tegouys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+    //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
+    "sea_PtBody":"",
+    //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
+    "search_mode": "0",
+    
+    //搜索json列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
+    "sea_arr_rule": "list",
+    //搜索json片单图片
+    "sea_pic": "pic",
+    //搜索json片单标题
+    "sea_title": "name",
+    //搜索json片单链接
+    "sea_url": "id",
+    //json片单副标题，这个很少有，预留着
+    "sea_subtitle":"",
+    
+    //搜索片单链接补前缀
+    "search_prefix": "https://www.tegouys.com/voddetail/",
+    //搜索片单链接补后缀，这个一般json搜索的需要
+    "search_suffix": ".html",
+    
+    //片单链接是否直接播放，0否，1分类片单链接直接播放，2详情选集链接直接播放。
+    //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
+    "force_play": "0",
+    //直接播放链接补前缀
+    "play_prefix": "https://live.52sf.ga/huya/",
+    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
+    "play_suffix": "#isVideo=true#",
+    //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
+    "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+    
+    //演员数据，截取前缀&&截取后缀
+    "proj_actor": ".myui-content__detail&&p,2&&Text",
+    //简介内容，截取前缀&&截取后缀
+    "proj_plot": ".myui-content__detail&&p,-1&&Text",
+    
+    //线路截取区域，如果不需要请把tab_title或tab_arr_pre置空或者全部不要填。
+    //线路截取数组前
+    "tab_arr_rule": ".nav-tabs&&li",
+    //线路标题，截取前缀&&截取后缀
+    "tab_title": "a&&Text",
+    
+    //列表数组截取前，必须
+    "list_arr_rule": ".tab-content&&.myui-content__list",
+    //集数数组截取前，必须
+    "epi_arr_rule": "li",
+    //集数标题，截取前缀&&截取后缀
+    "epi_title": "a&&Text",
+    //集数链接，截取前缀&&截取后缀
+    "epi_url": "a&&href",
+    //选集列表是否反转显示
+    "epi_reverse": "0",
+    //集数链接补前缀
+    "epiurl_prefix": "https://www.tegouys.com",
+    //集数链接补后缀
+    "epiurl_suffix": "",
+    
+    
+    //下面几个参数请勿乱用。否则可能会有副作用。
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
+    //如果网页源码里没有这种请设置为0
+    "Anal_MacPlayer":"0",
+    //是否开启手动嗅探，只对网页嗅探有效，0否，1是
+    "ManualSniffer":"0",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv",
+    //手动嗅探视频链接过滤关键词,每个用#隔开
+    "VideoFilter":".html#=http"
+}
