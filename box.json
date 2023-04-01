@@ -47,7 +47,7 @@
 {"key":"csp_Smdyy","name": "🐴神马","type": 3,"api": "csp_Smdyy","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"百影视频","name":"🍷百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar": "./box/jar/qj1119.txt"},
 {"key":"booys_spider","name":"📙书影影视","api":"csp_BookYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar": "./box/jar/qj1119.txt"},
-{"key":"Lezhu_spider","name":"🐷乐猪TV(sp)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":0,"jar": "./box/jar/xo.txt"},
+{"key":"Lezhu_spider","name":"🐷乐猪TV(sp)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":0,"jar": "./box/jar/qj1119.txt"},
 {"key":"YQK_spider","name":"📺︎一起看TV","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"csp_XBPQ_555","name":"5⃣555","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB2/555电影3.json"},
 {"key":"csp_XBPQ_看B站","name":"🅱看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/看B站.json"},
