@@ -29,15 +29,15 @@
     // 详情节点
     "dtNode": "//body",
     // 视频名
-    "dtName": "//div[@class="module-item-pic"]/a/@title",
+    "dtName": "//div[@class='module-item-pic']/a/@title",
     // 视频图片
-    "dtImg": "//div[@class="module-item-pic"]/img/@data-src",
+    "dtImg": "//div[@class='module-item-pic']/img/@data-src",
     // 播放源节点
-    "dtFromNode": "//div[@class="module-tab-content"],
+    "dtFromNode": "//div[@class='module-tab-content'],
     // 播放源名称 多个重名播放源
     "dtFromName": "//div[contains(@class,'module-tab-item tab-item')]",
     // 播放列表节点
-    "dtUrlNode": "//div[@class="scroll-content"]",
+    "dtUrlNode": "//div[@class='scroll-content']",
     // 播放地址节点
     "dtUrlSubNode": "/a",
     // 播放地址
@@ -53,7 +53,7 @@
     // 搜索地址
     "searchUrl": "https://www.kuaizi.cc/vodsearch/-------------/?wd={wd}",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
-    "scVodNode": "//div[@class="module-item-pic"]",
+    "scVodNode": "//div[@class='module-item-pic']",
     "scVodName": "/a/@title",
     "scVodId": "/a/@href",
     "scVodImg": "/img/@data-src",
