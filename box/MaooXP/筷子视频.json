@@ -12,7 +12,7 @@
         "纪录片": "/vodtype/30/",
     },
     // 首页推荐视频的节点
-    "homeVodNode": "//div[@class="module-item-pic"]",
+    "homeVodNode": "//div[@class='module-item-pic']",
     // 首页推荐视频的名称
     "homeVodName": "/a/@title",
     // 二次处理正则
