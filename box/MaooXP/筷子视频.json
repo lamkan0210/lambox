@@ -35,7 +35,7 @@
     // 播放源节点
     "dtFromNode": "//div[@class="module-tab-content"],
     // 播放源名称 多个重名播放源
-    "dtFromName": "//div[@class="module-tab-item tab-item selected"]",
+    "dtFromName": "//div[contains(@class,'module-tab-item tab-item')]",
     // 播放列表节点
     "dtUrlNode": "//div[@class="scroll-content"]",
     // 播放地址节点
