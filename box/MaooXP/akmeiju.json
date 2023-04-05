@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateNode": "//ul[@class='item nav-list clearfix']/li/a[contains(@href, 'vtype')]",
+  "cateNode": "//li[@class='nav-menu-item']/a",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/vtype(\\S+).html",
