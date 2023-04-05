@@ -212,7 +212,6 @@
 {"key":"csp_xpath_newfii","name":"奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/newfii.json"},
 {"key":"csp_xpath_xuangz","name":"尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/xuangz.json"},
 {"key":"csp_xpath_qdytv","name":"米来影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/qdytv.json"},
-{"key":"csp_xpath_dingzidy","name":"钉子电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/dingzidy.json"},
 {"key":"csp_xpath_paopaoshipin","name":"泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/paopaoshipin.json"},
 {"key":"csp_xpath_rttks","name":"人人影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/rttks.json"},
 {"key":"csp_xpath_ikan6","name":"爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/ikan6.json"},
