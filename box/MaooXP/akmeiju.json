@@ -11,7 +11,7 @@
   "cateId": "/@href",
   "cateIdR": "/vtype(\\S+).html",
   "cateManual": {},
-  "homeVodNode": "//div[@class='myui-vodlist__box']",
+  "homeVodNode": "//div[@class='module-item-pic']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/vdetail(\\S+).html",
