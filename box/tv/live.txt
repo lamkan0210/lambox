@@ -7,6 +7,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3
 明珠台.576,http://120.84.96.28:808/hls/26/index.m3u8
 无线财经体育资讯台,http://120.84.96.87:808/hls/86/index.m3u8
 民视,http://120.84.96.87:808/hls/34/index.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 私人影院,http://119.125.129.118:9901/tsfile/live/1011_1.m3u8?
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
 东森电影高清,http://120.84.96.87:808/hls/32/index.m3u8
