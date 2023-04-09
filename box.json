@@ -168,7 +168,6 @@
 {"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXP/蓝光影院.json"},
 {"key":"csp_xpath_dianyingn","name":"🐞电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/dianyingn.json"},
 {"key":"csp_Kuaikan","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_wmkk","name":"👓完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/wmkankan.json"},
 {"key":"csp_biubiu_饭团","name":"🐞饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB3/饭团影视.json","jar":"./box/jar/xpg.txt"},
 {"key":"csp_xbb_voflix","name":"🐞Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB3/voflix HD.json","jar":"./box/jar/xpg.txt"},
 {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"eecd706fc17d4ba9958aa04322361c3d","jar":"./box/jar/xo.txt"},
