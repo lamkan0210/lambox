@@ -22,6 +22,7 @@
 {"key":"csp_MeiJu69","name":"🗽69美剧","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/","jar":"./box/jar/xo.txt"},
 {"key":"csp_SP33","name":"📺三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./box/jar/xo.txt"},
 {"key":"csp_Dy1010","name":"❤️双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/jar/xo.txt"},
+{"key":"csp_Bttoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/jar/xo.txt"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"eecd706fc17d4ba9958aa04322361c3d","jar":"./box/jar/xo.txt"},
 {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"eecd706fc17d4ba9958aa04322361c3d","jar":"./box/jar/xo.txt"},
 {"key":"csp_Kunyu77","name":"👒七七","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
