@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.dianyingn.com/",
+  "homeUrl": "https://www.dianyingn.cc/",
 // 分类节点
 	"cateNode": "//li[@class='fed-pull-left'][position()>=3 and position()<=6]",
     // 分类名
