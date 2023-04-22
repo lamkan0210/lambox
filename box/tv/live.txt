@@ -6,6 +6,7 @@ TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3
 无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
 j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 明珠台.576,http://120.84.96.28:808/hls/26/index.m3u8
+香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 无线财经体育资讯台,http://120.84.96.87:808/hls/86/index.m3u8
 民视,http://120.84.96.87:808/hls/34/index.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
