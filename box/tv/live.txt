@@ -3,7 +3,7 @@
 凤凰资讯 ,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8#http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://113.64.147.176:808/hls/36/index.m3u8
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3u8#http://r.jdshipin.com/n90gt
-无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
+无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-14672782023042400513.m3u8#
 j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 明珠台.576,http://120.84.96.28:808/hls/26/index.m3u8
 香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
