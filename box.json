@@ -23,6 +23,7 @@
 {"key":"csp_SP33","name":"📺三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Dy1010","name":"❤️双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Music_spider","name":"音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":"","jar":"./box/jar/qj1119.txt"},
 {"key":"百顺视频","name":"万大小姐傻傻的视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://la.kstore.space/download/2863/FXZ.jar;md5;6a92e85399922ff0fd7813bbc2f09957"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"eecd706fc17d4ba9958aa04322361c3d"},
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"eecd706fc17d4ba9958aa04322361c3d"},
