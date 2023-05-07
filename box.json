@@ -7,7 +7,7 @@
 
 
 /*-----------------------JAR包接口-----------------------*/
-"spider":"./box/jar/xo.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+"spider":"./box/jar/xo.txt;md5;687223923442374b0ccb5e3a61b8b1a9",
 /*-----------------------直播-----------------------*/
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vbGFta2FuMDIxMC9sYW1ib3gvbWFpbi9ib3gvdHYvbGl2ZS50eHQ="]}]}],
 
