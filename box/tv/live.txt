@@ -1,14 +1,18 @@
 ﻿🇨🇳  iptv,#genre#
 凤凰中文 ,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1#https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://113.64.147.176:808/hls/37/index.m3u8
 凤凰资讯 ,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1#https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8#http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://113.64.147.176:808/hls/36/index.m3u8
-TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3u8#http://r.jdshipin.com/n90gt
-无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-14672782023042400513.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 明珠台.576,http://120.84.96.28:808/hls/26/index.m3u8
 香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 无线财经体育资讯台,http://120.84.96.87:808/hls/86/index.m3u8
-民视,http://120.84.96.87:808/hls/34/index.m3u8
+民视,http://120.84.96.87:808/hls/34/index.m3u8#rtmp://9sv2.mine.nu/sat/tv051
+台视,rtmp://9sv2.mine.nu/sat/tv071
+中视,rtmp://9sv2.mine.nu/sat/tv091
+华视,rtmp://9sv2.mine.nu/sat/tv111
+东森财经,rtmp://219.80.97.77/sat/tv571
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 私人影院,http://119.125.129.118:9901/tsfile/live/1011_1.m3u8?
 好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
