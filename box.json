@@ -60,9 +60,9 @@
 {"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./box/MaooXB2/乐猪TV.json","jar":"./box/jar/XYQBiu.txt"},
 {"key":"csp_YQKAPP","name":"📺︎一起看TV","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_555","name":"5️⃣️555","type":3,"api":"csp_Ys555","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_XBPQ_看B站","name":"🅱看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/看B站.json"},
-{"key":"csp_XBPQ_酷客影视","name":"酷客影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/酷客影视.json"},
-{"key":"csp_XBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/新香蕉中文字幕.json"},
+{"key":"csp_XBPQ_看B站","name":"🅱看B站","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/看B站.json","jar":"./box/jar/XBPQ.txt"},
+{"key":"csp_XBPQ_酷客影视","name":"酷客影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/酷客影视.json","jar":"./box/jar/XBPQ.txt"},
+{"key":"csp_XBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB/新香蕉中文字幕.json","jar":"./box/jar/XBPQ.txt"},
 {"key":"niketv_spider","name":"✔︎耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar": "./box/jar/qj1119.txt"},
 {
       "key": "快播云",
