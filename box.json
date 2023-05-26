@@ -44,7 +44,7 @@
 {"key" : "drpy_js_看一看影视","name": "郭大侠的小电视","type" : 3,"api" : "https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext" : "https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/JS2/js/kankan.js"},
 {"key" : "drpy_js_万博剧院","name": "万博剧院","type" : 3,"api" : "https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext" : "https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/JS2/js/万博剧院.js"},
 {"key" : "drpy_js_嘶哩嘶哩","name": "嘶哩嘶哩","type" : 3,"api" : "https://notabug.org/aruisi888/Ar/raw/master/lib/drpy2.min.js","ext" : "https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/JS2/js/嘶哩嘶哩.js"},
-{"key":"Tutu_spider","name":"🐰图图┃App","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"./box/jar/qj1119.txt"},
+{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"8K影视","name":"8K影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/8K影视.json","jar":"./box/jar/XBPQ.txt"},
 {"key":"csp_XBPQ_大米星球","name":"🍚李江的大米星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXB/大米星球.json"},
