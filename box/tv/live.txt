@@ -1,6 +1,6 @@
 ﻿🇨🇳  iptv,#genre#
-凤凰中文 ,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1#https://pull-l3-cny.douyincdn.com/live/stream-19882782023042310568.m3u8#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://113.64.147.176:808/hls/37/index.m3u8
-凤凰资讯 ,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1#https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8#http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://113.64.147.176:808/hls/36/index.m3u8
+凤凰中文 ,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯 ,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 TVB翡翠台,http://r.jdshipin.com/62WM7#http://120.84.96.28:808/hls/25/index.m3u8#http://r.jdshipin.com/n90gt
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
