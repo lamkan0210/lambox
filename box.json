@@ -100,7 +100,7 @@
 {"key":"csp_Cokemv","name":"📺Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/jar/qj1119.txt"},
 {"key":"csp_XYQBiu_lyys","name":"🍭凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/lyys.json"},
 {"key":"csp_XYQBiu_凌云影视","name":"🍭凌云视频(韩国)","type":3,"api":"csp_XYQBiu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/MaooXP/凌云视频韩国.json"},
-{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"，"jar":"./box/jar/qj1119.txt"},
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"./box/jar/qj1119.txt"},
 {"key":"csp_Ysj","name":"👾异界(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0af16554fa864b988732348cdf13568a","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AList","name":"🅿️AList(SP)","type":3,"api":"csp_AList","searchable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/js/Alist1.json","jar": "./box/jar/0204.txt"},
