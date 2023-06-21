@@ -40,7 +40,7 @@
 {"key":"csp_黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key": "如如","name": "🏵如如┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"915cde8680f54ee687bdde17534aa8f8"},
-{"key":"csp_Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"2763e7df5df7457daf75047ff224f9c8","jar":"./box/jar/qj1119.txt"},
+{"key":"csp_Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"2763e7df5df7457daf75047ff224f9c8"},
 {"key":"csp_Kunyu77","name":"👒七七","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar": "./box/jar/0204.txt"},
 {"key":"csp_Nmys","name":"🌾农民影视","type":3,"api":"csp_Nmys","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
 {"key": "csp_XYQHiker_利丽娅电影","name": "利丽娅电影","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./box/MaooXB2/利丽娅电影.json"},
