@@ -31,7 +31,6 @@
 {"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/jar/xc0126.txt"},
 {"key":"萌蛋蛋","name":"🥚萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key": "csp_XYQHiker_电影港","name":"电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB2/电影港磁力.json","jar":"./box/jar/XYQBiu.txt"},
-{"key":"csp_MeiJu69","name":"🗽69美剧","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_SP33","name":"📺三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Dy1010","name":"❤️双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🌟889966点康姆","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
