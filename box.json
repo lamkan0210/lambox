@@ -15,6 +15,7 @@
 "sites":[
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"a9c614ef0cf84c3d8da2d0f85df3fa68"},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"a9c614ef0cf84c3d8da2d0f85df3fa68","jar":"./box/jar/ali.txt"},
+{"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"🏭厂长","type":3,"api":"./JS2/libs/drpy2.min.js","ext":"./JS2/js/changzhang.js"},
 {"key":"csp_DiDuan" ,"name":"⏮️低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
