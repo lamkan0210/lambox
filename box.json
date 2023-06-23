@@ -14,7 +14,6 @@
 /*-----------------------配置数据源-----------------------*/
 "sites":[
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"a9c614ef0cf84c3d8da2d0f85df3fa68"},
-{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"}, 
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"🏭厂长","type":3,"api":"./JS2/libs/drpy2.min.js","ext":"./JS2/js/changzhang.js"},
 {"key":"csp_DiDuan" ,"name":"⏮️低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
@@ -42,6 +41,7 @@
 {"key":"红红","name":"🌈红红┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key": "如如","name": "🏵如如┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"布雷蓝光","name":"⚡布雷┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"}, 
 {"key":"TuGou","name":"😿土狗┃搜索","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,"ext":"a9c614ef0cf84c3d8da2d0f85df3fa68"},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"a9c614ef0cf84c3d8da2d0f85df3fa68","jar":"./box/jar/ali.txt"},
 {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
