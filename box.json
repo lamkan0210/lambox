@@ -62,7 +62,7 @@
 {"key": "csp_AppMr","name": "👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_cupfox","name": "🦊茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json","jar":"./box/jar/xpg.txt"},
 {"key":"新视觉","name":"✨新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"./box/MaooXB/xinshijue.json"},
-	{"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996" ,"jar":"./box/jar/qj1119.txt"},
+{"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996" ,"jar":"./box/jar/qj1119.txt"},
 {"key" : "drpy_js_宅腐影视","name": "宅腐影视","type" : 3,"api" : "https://raw.kgithub.com/lamkan0210/lambox/main/JS2/libs/drpy2.min.js","ext" : "https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/JS2/js/宅腐影视.js"},
 {"key": "csp_XYQHiker_野荷塘影院","name":"💅野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/MaooXB2/野荷塘影院.json"},
 {"key":"csp_fantuan","name":"🍙饭团(SP)","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
