@@ -14,7 +14,7 @@
 /*-----------------------配置数据源-----------------------*/
 "sites":[
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"c99d5629cef447728b033e3f805fdf37"},
-{"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"c99d5629cef447728b033e3f805fdf37","jar":"./box/jar/ali.txt"},
+{"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"c99d5629cef447728b033e3f805fdf37","jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/ali.txt"},
 {"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"🏭厂长","type":3,"api":"./JS2/libs/drpy2.min.js","ext":"./JS2/js/changzhang.js"},
