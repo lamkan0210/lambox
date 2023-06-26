@@ -7,7 +7,7 @@
 
 
 /*-----------------------JAR包接口-----------------------*/
-"spider":"./box/jar/xo.txt;md5;09baf4a03d362d96f0fc14085c343191",
+"spider":"./box/jar/xo.txt;md5;aa645ef076aff7c6b3b3239ee85a87c1",
 /*-----------------------直播-----------------------*/
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbGFta2FuMDIxMC9sYW1ib3gvbWFpbi9ib3gvdHYvbGl2ZS50eHQ="]}]}],
 
@@ -17,6 +17,7 @@
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"c99d5629cef447728b033e3f805fdf37","jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/ali.txt"},
 {"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"探探","name":"🏵探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"🏭厂长","type":3,"api":"./JS2/libs/drpy2.min.js","ext":"./JS2/js/changzhang.js"},
 {"key":"Czsapp","name":"厂长sp","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/cs.txt"},
 {"key":"csp_DiDuan" ,"name":"⏮️低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
