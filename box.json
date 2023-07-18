@@ -14,8 +14,8 @@
 /*-----------------------配置数据源-----------------------*/
 "sites":[
 {"key":"csp_Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"fd64485775d744438eb62a54502acc0d"},
-{"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"fd64485775d744438eb62a54502acc0d","jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/ali.txt"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"2d9984e8df344f58a3b0404589160c1e"},
+{"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"2d9984e8df344f58a3b0404589160c1e","jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/ali.txt"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
 {"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
 {"key":"陌陌","name":"🍄陌陌┃直连","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
