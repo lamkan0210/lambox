@@ -11,7 +11,7 @@
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
-{"key":"csp_Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"ext": "https://czzy.pw/","filterable":1,"jar":"http://xhww.fun:63/小米/0802.jar"},
+{"key":"csp_Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"ext": "https://czzy.pw/","filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"0dbfa00769fb42a99738a69976cb8d6a"},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"0dbfa00769fb42a99738a69976cb8d6a","jar":"https://lamkan0210.github.io/lambox/box/jar/ali.txt"},
 {"key":"蚂蚁视频","name":"🐜蚂蚁视频","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.rzys.cc","jar": "http://cdn.qiaoji8.com/fix0804.jar"},
