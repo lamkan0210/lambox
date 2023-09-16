@@ -13,6 +13,7 @@
 "sites":[
 {"key":"csp_Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3232d92bf64c5eb6d6bc8cfa2c470e"},
+{"key":"csp_wogg_cli","name":"玩偶┃俊于","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3232d92bf64c5eb6d6bc8cfa2c470e","timeout":30},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ad3232d92bf64c5eb6d6bc8cfa2c470e","jar":"https://lamkan0210.github.io/lambox/box/jar/ali.txt"},
 {"key":"Vofl","name":"🎈VOF┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"蚂蚁视频","name":"🐜蚂蚁视频","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.rzys.cc","jar": "http://cdn.qiaoji8.com/fix0804.jar"},
