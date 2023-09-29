@@ -16,8 +16,6 @@
 {"key":"csp_wogg_cli","name":"玩偶┃俊于","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3232d92bf64c5eb6d6bc8cfa2c470e","timeout":30},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"ad3232d92bf64c5eb6d6bc8cfa2c470e","jar":"https://lamkan0210.github.io/lambox/box/jar/ali.txt"},
 {"key":"Vofl","name":"🎈VOF┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"蚂蚁","name":"🐜蚂蚁┃直连","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
-{"key":"毛驴","name":"🍓毛驴┃App","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}, 
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar": "http://cdn.qiaoji8.com/fix0907.jar"},
 {"key":"NoSearch_Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar": "http://cdn.qiaoji8.com/fix0907.jar"},
