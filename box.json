@@ -13,7 +13,7 @@
 "sites":[
 {"key":"csp_Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"da18b363a49f42b3a4f8d9ae134d6899"},
-{"key":"csp_wogg_cli","name":"玩偶┃俊于","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"da18b363a49f42b3a4f8d9ae134d6899","timeout":30},
+{"key": "csp_农民","name": "🍎小苹果","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"纸条","name":"📜纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899","jar":"https://lamkan0210.github.io/lambox/box/jar/ali.txt"},
 {"key":"Vofl","name":"🎈VOF┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}, 
