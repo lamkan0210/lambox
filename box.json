@@ -31,7 +31,6 @@
 {"key":"蚂蚁视频","name":"蚂蚁视频","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz","jar": "http://cdn.qiaoji8.com/fix09292.jar"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
 {"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
-{"key":"哈喽","name":"✌哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"探探","name":"🏵探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"迪迪","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
