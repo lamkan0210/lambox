@@ -54,7 +54,6 @@
 {"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/310直播.json"},
 {"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/企鹅直播.json"},
 {"key":"大米星球（APP）","name": "🍚李江的大米星球","type":3,"api":"csp_AppYsV2","ext":"https://dmdy2.vip/api.php/app/"},
-{"key": "csp_AppMr","name": "👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新视觉","name":"✨新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/xinshijue.json"},
 {"key" : "drpy_js_宅腐影视","name": "宅腐影视","type" : 3,"api" : "https://lamkan0210.github.io/lambox/JS2/libs/drpy2.min.js","ext" : "https://lamkan0210.github.io/lambox/JS2/js/宅腐影视.js"},
 {"key":"喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://lamkan0210.github.io/lambox/JS2/libs/drpy2.min.js","ext":"https://lamkan0210.github.io/lambox/JS2/js/ximalaya.js"},
