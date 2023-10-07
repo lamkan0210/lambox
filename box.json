@@ -48,8 +48,8 @@
 {"key":"csp_Lib","name":"💥Libvio(SP)","type":3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
 {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"drpy_js_LIBVIO","name":"💥LIBVIO","type":3,"api":"https://lamkan0210.github.io/lambox/JS2/libs/drpy2.min.js","ext":"https://lamkan0210.github.io/lambox/JS2/js/LIBVIO.js"},
-{"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/xc0126.txt"},
-{"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/raw.githubusercontent.com/lamkan0210/lambox/main/box/jar/xc0126.txt"},
+{"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://lamkan0210.github.io/lambox/main/box/jar/xc0126.txt"},
+{"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://lamkan0210.github.io/lambox/main/box/jar/xc0126.txt"},
 {"key":"萌蛋蛋","name":"🥚萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_SP33","name":"📺三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Bttoo","name":"🌟889966点康姆","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -129,13 +129,6 @@
 {"key": "❤番号资源","name": "❤番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "❤鲨鱼资源","name": "❤鲨鱼资源","type": 1,"api": "https://shayuapi.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_biubiu_4K电影网","name":"🥒4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/4kdyw.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_奈菲影视","name":"奈菲影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB2/奈菲影院.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_去看吧","name":"🥒去看吧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/去看吧.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/维奇动漫.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_chok8电影","name":"🥒chok8电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/chok8电影.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_YYDS影院","name":"🥒YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/YYDS影院.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
-{"key":"csp_biubiu_如如影视","name":"🥒如如影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lamkan0210.github.io/lambox/box/MaooXB/如如影视.json","jar":"https://lamkan0210.github.io/lambox/box/jar/xpg.txt"},
 
 #
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"jar": "https://lamkan0210.github.io/lambox/box/jar/0928.txt"}
