@@ -43,7 +43,6 @@
 {"key":"时常影视","name":"时常影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar": "http://cdn.qiaoji8.com/fix09292.jar"},
 {"key":"蚂蚁视频","name":"蚂蚁视频","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz","jar": "http://cdn.qiaoji8.com/fix09292.jar"},
 {"key":"drpy_js_追剧猫","name":"🐱追剧猫","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/rjm.js"},
-{"key":"csp_FreeOK","name":"💰️富瑞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/free.json"},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"quickSearch":0,"changeable":0},
 {"key": "奇优影院","name": "奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/奇优影院.json"},
 {"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
