@@ -133,9 +133,7 @@
 {"key": "❤乐播资源","name": "❤乐播资源","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "❤番号资源","name": "❤番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "❤鲨鱼资源","name": "❤鲨鱼资源","type": 1,"api": "https://shayuapi.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
-{"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-#
+{"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}
 ],
 
 /*-----------------------解析-----------------------*/
