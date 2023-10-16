@@ -11,7 +11,7 @@
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
-{"key":"Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz01.pro/"},
+{"key":"Czsapp","name":"🚬厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz0101.com/"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899"},
 {"key":"图图影视","name":"🖼︎图图影视","type":3,"api":"csp_APPTT","searchable":1,"quickSearch":1,"filterable":0,"ext":"pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv","jar": "http://cdn.qiaoji8.com/fix1013.jar"},
 {"key":"橘子影视","name":"🍊橘子影视","type":3,"api":"csp_Appto","playerType":2,"ext":"wu6uHHTlIT/13WUA6ax05DFsT+PSNlvLlDqf+wO0JxJXYbCJHutGxRHGftDKPD559TQ8wBa1o9WTSLR7lNQwHsnvFoByNyLD9u8iMrtN0Z5AHPTHkdiITcclNqJ+UT5ADAiHpr09kRxSGnTcXW3/7zcABvNADuAbAQZR6k9lJr+F/Fe/fQlPxY338Viyh3lo9SVdYq5hM4HPKX9lNPOON7PX4n2nzB42uGnil5A+ZFqEziv0nAMtpqR4FeEYkNC/yUOPfjkUVF7oyBEwl+DwetJf6N3SsojmTp0aXa7FAUcISNWnw5AxK0ZFzOfiGgPmiDIdrgKlNVZos0RtdWasairsqjJOtoV/cF5XDXsD4HKPs7y36OA8hWdEv+xVFA7yS27j54hcVbEGJhSXGL2xaZ1sFWtj5lQu6kPjWHk1A6QAuaWS8sklmaS0qFAcYTFff6iXbDoCQLr3GghnbDFUgulnMBYDKAcbd2KdXUJMYECA2QHGR19IFvOySumD5E0iOTr0qZtsqPHruB18ffb4C1isAHlSFjpjRqa0Tmd6rxFW5zV3+la1krFIMHiqJriwYkidL6Orf5cEaMIjifhiTbgyE88nmVN82diEPcOPPuLl3AoP5bIal/z+eT2TBmdBlsWLyPtTP0/+oj8cPE10bfxpQwoPm8k6NWjvokERrpmc=","jar": "http://cdn.qiaoji8.com/fix1013.jar"},
