@@ -136,7 +136,6 @@
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 #
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"jar": "https://lamkan0210.github.io/lambox/box/jar/0928.txt"}
 ],
 
 /*-----------------------解析-----------------------*/
