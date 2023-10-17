@@ -34,6 +34,7 @@
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 {"key":"宝仙（APP）","name":"🌙宝仙（APP）","type":3,"api":"csp_AppYsV2","ext":"https://webdillo.com/api.php/app/"},
 {"key":"阿里（APP）","name":"👳阿里（APP）","type":3,"api":"csp_AppYsV2","ext":"http://aliys.cn:91/api.php/v1.vod"},
+{"key":"drpy_js_玄天","name":"玄天","type":3,"api":"https://lamkan0210.github.io/lambox/JS2/libs/drpy2.min.js","ext":"https://lamkan0210.github.io/lambox/JS2/js/玄天.js"},
 {"key":"骑骑影院","name":"🚵┃骑骑┃影院","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"笑笑影视","name":"🌹笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/xiaoxiao.json"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}, 
