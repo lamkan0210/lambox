@@ -20,6 +20,7 @@
 {"key":"csp_Auete","name":"💈Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"NoSearch_csp_DiDuan","name":"⏮️低端","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar": "http://cdn.qiaoji8.com/fix09292.jar"},
 {"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
+{"key":"VOFLIX","name":"VOFLIX┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://drpy.cainisi.cf/js/voflix.js"},
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
 {"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
 {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
