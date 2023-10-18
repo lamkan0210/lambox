@@ -27,6 +27,7 @@
 {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
 {"key":"PanSearch","name":"📀柳翰睿搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
 {"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"da18b363a49f42b3a4f8d9ae134d6899+4k|auto|fhd"},
+{"key":"软件","name":"软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://itvbox.cc/tvbox/云星日记/sh/Bilibili/软件教程.json"},
 {"key":"js_电影先生","name":"🤵┃电影┃先生","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/xduo/-/raw/main/js/电影先生.js"},
 {"key":"yqikan","name":" 🌲小松专享","type":3,"api":"csp_YQKAPP","ext":"https://api-aws.ctdy.cc","jar": "http://cdn.qiaoji8.com/fix1005.jar"},
 {"key":"索尼","name":"🛸索尼影视","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
