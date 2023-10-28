@@ -45,7 +45,6 @@
 {"key":"49zy","name":"49资源网","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"],"jar": "https://tv.lqiang.link/box/jar/0606.txt"},
 {"key":"drpy_js_人人影视","name":"人人影视","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/人人影视.js"},
 {"key":"drpy_js_凌云影视","name":"凌云影视","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/凌云影视.js"},
-{"key":"drpy_js_哔哩兔","name":"哔哩兔","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/哔哩兔.js"},
 {"key":"drpy_js_孜然影视","name":"孜然影视","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/孜然影视.js"},
 {"key":"drpy_js_秋霞影视","name":"秋霞影视","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/秋霞影视.js"},
 {"key":"drpy_js_阿布影院","name":"阿布影院","type":3,"api":"https://tv.lqiang.link/JS2/libs/drpy2.min.js","ext":"https://tv.lqiang.link/JS2/js/阿布影院.js"},
