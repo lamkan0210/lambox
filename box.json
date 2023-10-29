@@ -29,7 +29,7 @@
 {"key":"NoSearch_csp_BBB","name":"🅱哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.qiaoji8.com/tvbox/bili.json"},
 {"key":"VOFLIX","name":"VOFLIX","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://drpy.cainisi.cf/js/voflix.js"},
 {"key": "影探VIP","name": "影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
-{"key": "戏 曲" ,"name": "👲国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.lqiang.link/box/MaooXB/Blixq.json"},
+{"key": "戏 曲" ,"name": "👲国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.lqiang.link/Blixq.json"},
 {"key":"Paper","name":"📑纸条搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=854d6311b3d443c9859ac07c1a2eadd7","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"854d6311b3d443c9859ac07c1a2eadd7+4k|auto|fhd"},
 {"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"854d6311b3d443c9859ac07c1a2eadd7+4k|auto|fhd"},
